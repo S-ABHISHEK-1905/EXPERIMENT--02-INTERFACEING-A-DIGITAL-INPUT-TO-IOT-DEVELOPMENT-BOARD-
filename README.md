@@ -167,12 +167,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ## Before detection of an object
- ![](./1.png)
+![image](https://user-images.githubusercontent.com/66360846/228616425-4afd34e3-7dd5-4e75-8164-e3bce9543e7f.png)
 ## After detection of an object
+![image](https://user-images.githubusercontent.com/66360846/228617230-2dd69a59-4a81-4b32-a4eb-1ba7f390a029.png)
 ## LED blink off
-![](./2.png)
+![image](https://user-images.githubusercontent.com/66360846/228616642-ecea320b-e22a-43bb-823e-2003325b05c0.png)
 ## LED blink on
-![](./3.png)
+![image](https://user-images.githubusercontent.com/66360846/228616693-3faa8871-2dc2-48c1-bd5d-a10eb009b971.png)
  
  
 ## Result :
